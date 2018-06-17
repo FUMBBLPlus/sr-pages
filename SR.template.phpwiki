@@ -1,7 +1,6 @@
 !!! OBC Sport SR Rankings
+Updated at {updated}
 <<<
-%%%
-%%%
 %%%
 %%%
 The SR Rankings is the OBC Sport's historical objective merit-based method used for determining entry and seeding in all official win-aimed FUMBBL tournaments for both coaches and teams. SR Rankings is based on the [Emirates ATP Rankings|http://www.atpworldtour.com/en/rankings] and its predecessor was maintained by [Sonrises|https://fumbbl.com/~sonrises]. Its current editor in chief is [SzieberthAdam|https://fumbbl.com/~SzieberthAdam].
@@ -18,11 +17,16 @@ Similarly, a team which is #7 in the SR Team Rankings will be considered a ''Top
 >>>
 %%%
 {center
-!![Current Rankings|SR-Report-805]
-
-![All Rankings|SR-Reports]
-
 ![Rulebook|SR-Rulebook]
+%%%
 
-![Tournaments|SR-Tournaments]
-}
+!![Current Report|SR-Report-{weeknr}]
+
+%%%
+![Previous Reports|SR-Reports]
+
+%%%
+!Tournaments
+[Pending|SR-PendingTournaments] | [2018|SR-TournamentsOf2018] | [2017|SR-TournamentsOf2017] | [2016|SR-TournamentsOf2016] | [2015|SR-TournamentsOf2015] | [2014|SR-TournamentsOf2014] | [2013|SR-TournamentsOf2013] | [2012|SR-TournamentsOf2012] | [2011|SR-TournamentsOf2011] | [2010|SR-TournamentsOf2010] | [2009|SR-TournamentsOf2009] | [2008|SR-TournamentsOf2008] | [2007|SR-TournamentsOf2007] | [2006|SR-TournamentsOf2006] | [2005|SR-TournamentsOf2005] | [2004|SR-TournamentsOf2004] | [2003|SR-TournamentsOf2003]
+
+%%%

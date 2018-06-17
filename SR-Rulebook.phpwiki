@@ -29,13 +29,13 @@ The ''SR Rankings'' are published in ''Reports'' after each __Monday 8:00 AM__ (
 
 Tournaments yield points based on their rank, level, format, number of teams, and based on the performance of the team/coach.
 
+__Format__: SR has two tournament formats: ''Elimination'' (E) and ''Non-elimination'' (N). Knockout and King of the Hill tournaments are Elimination format tournaments, while Swiss and Round-robin tournaments are Non-Elimination format tournaments.
+
 __Rank__: There are three ranks: ''Major'' (MA), ''Minor'' (MI), and ''Major Qualifier'' (QU). Tournament ranks should be obvious except for XFL Qualifiers which are considered as Minor tournaments. Currently the XFL Masters Groups are considered as Major Qualifiers, while the XFL Masters Final is a Major tournament. Historically there were XFL Masters which were Minor tournaments.
 
 __Level__: A Level 1 tournament has no qualifiers while a level 2 tournaments have level 1 qualifiers etc. Note that XFL Qualifiers are considered as Level 1 MI tournaments, XFL Masters Groups are Level 2 QU tournaments, while the XFL Masters Final is a Level 3 MA tournament.
 
-__Format__: SR has two tournament formats: ''Elimination'' (E) and ''Non-elimination'' (N). Knockout and King of the Hill tournaments are Elimination format tournaments, while Swiss and Round-robin tournaments are Non-Elimination format tournaments.
-
-__Number of Teams__: This is the number of non-filler teams in round 1 of the schedule of the tournament. The point allocation rules are set for ranges of these numbers, eg. a tournament with 14 teams may fit to a point allocation rule set for 13–16 teams.
+__Number of Teams__: This is the number of non-filler teams in round 1 of the schedule of the tournament. The point allocation rules are set for ranges of these numbers, eg. a tournament with 14 teams may fit to a point allocation rule set for 13–16 teams. Not requiresd for ''Non-elimination'' tournaments.
 
 __Performance__: Performances are handled differently for the two formats. Concessions, forfeits, and dropouts are punished. All tournaments yield a small amount of initial points even if the participant loses all matches. This is not only an incentive for participation but also to play the match without conceding as a first round forfeit/dropout/concession takes away these points and result a zero point performance. On top of that, these performances have priority over others in taking slots and may easily displace better performances (see ''SR Points'' section below.)
 
@@ -53,7 +53,7 @@ __Table 1.__ Points Table of Elimination Format Tournaments
 {center
 __Table 2.__ Points Table of Non-Elimination Format Tournaments
 
-[https://fumbbl.com/i/559174]
+[https://fumbbl.com/i/561323]
 }
 
 %%%
