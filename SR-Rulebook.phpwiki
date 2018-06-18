@@ -59,11 +59,11 @@ __Table 2.__ Points Table of Non-Elimination Format Tournaments
 %%%
 !!Wasted Points
 
-Teams and coaches may not get all the points they earned. Earned points which are excluded from their ''SR Point'' are called as ''Wasted Points''.
+Teams and coaches may not get all the points they earned. Earned points which are excluded from their ''SR Points'' are called as ''Wasted Points''.
 
-If a coach applied with multiple teams to a given tournament (whether these teams applied to different qualifiers or not) then all points earned by these teams are wasted for the teams and the coach regardless of performance.
+If a coach applied with multiple teams to a given tournament (whether these teams applied to different qualifiers or not) then the least of the points are divided equally among the teams fractions rounded down. This means that the points from the better perfomances are completely removed from the system and not even shown as ''Wasted Points''.
 
-Normally though, points are wasted because no vacant slots are remained for them.
+Normally though, points are wasted because no vacant slots are remained for them. Those points are indicated as ''Wasted Points'' and they can potentially be part of the ''SR Points'' again if some slots open for them.
 
 %%%
 !!Slot Groups
@@ -97,8 +97,8 @@ To get the SR Points of a coach or team, one must know the order of slot allocat
 *__1.__ For a given Report, check which tournaments are included from the [Tournaments|SR-Tournaments] list. The Monday date of the Report must be greater than or equal to the tournament's ''Enter Date'' and less than the ''Exit Date''.
 *__2.__ For every performances of those tournaments calculate the Points according to ''Table 1'' and ''Table 2''.
 *__3.__ Collect every coaches and teams who participated on those tournaments and note them their slot groups and their initial vacant slots according to the Report date and ''Table 3''
-*__4.__ Collect the performances of multiple applications (see ''Wasted Points'' section above) and remove them.
-*__5.__ Collect the performances of dropouts/forfeits/concessions and sort them by points increasing, then enter date earliest first. Regardless of tournament rank, these points take vacant __R__ slots from the coaches and teams. If there are no more __R__ slot to hold the result, that performance got ''Wasted''.
+*__4.__ Collect the performances of multiple applications (see ''Wasted Points'' section above) and share the least of the Points equally among them, fractions rounded down. Original Points should get replaced with the proportions.
+*__5.__ Collect the performances with dropouts/forfeits/concessions and sort them by points increasing, then enter date earliest first. Regardless of tournament rank, these points take vacant __R__ slots from the coaches and teams. If there are no more __R__ slot to hold the result, that performance got ''Wasted''.
 *__6.__ Sort the remaining performances by points decreasing then enter date earliest first. Get the ''First Slot Group'' value of the tournament as it is listed in the [Tournaments|SR-Tournaments] page and check for vacant slot for their coach and team in the obtained Slot Group. If that group is full, repeat this process for the next slot group. The order is __FC__ --> __MA__ --> __R__ --> ''Wasted''.
 *__7.__ Sum the points of each coaches and teams which were not ''Wasted'' and sort them. These are the ''SR Points''. Points of coaches and teams are published separately (Coach Rankings and Team Rankings).
 
